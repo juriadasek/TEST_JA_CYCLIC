@@ -1,4 +1,4 @@
-# CDSs for testing cyclic dependency
+# CDS views for testing cyclic dependency
 
 Inspired by: [ABAP CDS - Cyclical Dependencies](https://help.sap.com/doc/abapdocu_751_index_htm/7.51/en-us/abenddic_cds_cycle_problems.htm)
 
